@@ -1,0 +1,14 @@
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\bin\Release\URLFileDownloader.exe.config
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\bin\Release\URLFileDownloader.exe
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\bin\Release\URLFileDownloader.pdb
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\bin\Release\MetroFramework.dll
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\bin\Release\MetroFramework.Fonts.dll
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.csproj.AssemblyReference.cache
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.Form1.resources
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.Properties.Resources.resources
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.csproj.GenerateResource.cache
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.csproj.CoreCompileInputs.cache
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.csproj.CopyComplete
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.exe
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.pdb
