@@ -25,6 +25,8 @@ namespace URLFileDownloader
             metroButton3.Visible = true;
             metroProgressBar1.Enabled = false;
             metroProgressBar1.Visible = false;
+            metroTextBox1.Text = null;
+            metroTextBox2.Text = null;
         }
 
         private void metroButton1_Click(object sender, EventArgs e)
@@ -55,7 +57,13 @@ namespace URLFileDownloader
         }
         private void DownloadCompleted(object sender, AsyncCompletedEventArgs e)
         {
-            MessageBox.Show("Download Manager", "File download completed", MessageBoxButtons.OK);
+            MessageBox.Show("File download completed", "Download Manager", MessageBoxButtons.OK);
+            metroProgressBar1.Enabled = false;
+            metroProgressBar1.Visible = false;
+            metroButton3.Enabled = true;
+            metroButton3.Visible = true;
+            metroTextBox1.Text = null;
+            metroTextBox2.Text = null;
         }
     }
 }

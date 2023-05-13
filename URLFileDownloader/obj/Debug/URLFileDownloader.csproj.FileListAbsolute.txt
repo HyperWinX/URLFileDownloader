@@ -4,7 +4,6 @@ C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\bin\Debug\URL
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\bin\Debug\MetroFramework.dll
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Debug\URLFileDownloader.csproj.AssemblyReference.cache
-C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Debug\URLFileDownloader.csproj.SuggestedBindingRedirects.cache
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Debug\URLFileDownloader.Form1.resources
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Debug\URLFileDownloader.Properties.Resources.resources
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Debug\URLFileDownloader.csproj.GenerateResource.cache
