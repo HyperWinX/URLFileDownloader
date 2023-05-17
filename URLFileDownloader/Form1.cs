@@ -29,9 +29,10 @@ namespace URLFileDownloader
 
         private void metroButton1_Click(object sender, EventArgs e)
         {
-            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+            folderBrowserDialog1.ShowNewFolderButton = true;
+            if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
             {
-                fileSavePath = saveFileDialog1.FileName;
+                fileSavePath = folderBrowserDialog1.SelectedPath;
                 metroTextBox2.Text = fileSavePath;
             }
         }
@@ -55,7 +56,7 @@ namespace URLFileDownloader
             metroLabel2.Text = "[PREPARING]";
             WebClient webcl = new WebClient();
             string sourceFile = metroTextBox1.Text;
-            string destFile = metroTextBox2.Text;
+            string destFile = $"{metroTextBox2.Text}\\{Path.GetFileName(sourceFile)}";
             metroLabel2.Text = "[DOWNLOADING]";
             webcl.DownloadFileCompleted += new AsyncCompletedEventHandler(DownloadCompleted);
             webcl.DownloadProgressChanged += new DownloadProgressChangedEventHandler(ProgressChanged);

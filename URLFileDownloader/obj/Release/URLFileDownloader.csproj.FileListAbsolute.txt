@@ -34,3 +34,4 @@ C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\U
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.csproj.CopyComplete
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.exe
 C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.pdb
+C:\Users\HyperWin\source\repos\URLFileDownloader\URLFileDownloader\obj\Release\URLFileDownloader.csproj.AssemblyReference.cache
